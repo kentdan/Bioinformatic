@@ -1,0 +1,28 @@
+amply     apply
+imply     billy
+bully     dally
+curly     aptly     bigly
+#..[^tg]ly
+can man fan
+dan ran pan
+#[crpfan # [^drp]an
+Room302 Room304 Room308
+Room203 Room417 Room485
+Roomabc Room599
+#....[1-4] #Room[1-4]
+
+dog1 cat2 fish2 tiger1 dog2
+cow1 cow2 dog3 cat4
+#..[^w][1-2]
+
+ATCGGGC  ATCGC   ATCGGGT    ATCGT   ATCGGG  ATCG
+
+ATCGGGGC  ATCGGGGT ATCGGA ATCGGTT  ATCGGCC
+{n, }
+#ATCG{1,3}[^CT]{2}
+
+A*B+C$	D\\
+#^A\*B\+C\$\tD\\
+a
+b
+c
