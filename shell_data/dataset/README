@@ -1,0 +1,15 @@
+# Dataset
+
+## crop_planting.tsv
+Planting information for 2020 field trial. 3 columns
+  - 1st column: type of crop.
+  - 2nd column: planting date.
+  - 3rd column: company code. Which company conduct the field trial
+
+
+## planets.csv
+Basic information for same planets. Comma separated file
+  - 1st column: Planet Name
+  - 2nd column: Planet Mass
+  - 3rd column: Planet Radius
+  - 4th column: Planet Period
